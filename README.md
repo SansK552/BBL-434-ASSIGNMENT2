@@ -1,4 +1,4 @@
-# Affine Gapped Global Sequence Alignment2
+# Affine Gapped Global Sequence Alignment
 
 This repository contains a Python implementation of global DNA sequence alignment using affine gap penalties (Needleman–Wunsch algorithm with gap opening and gap extension scoring).
 
